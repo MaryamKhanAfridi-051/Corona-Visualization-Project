@@ -8,5 +8,4 @@ https://www.kaggle.com/mesumraza/corona-virus-pakistan-dataset-2020
 Microsoft Power bi is used for visualization of this dataset to get the understanding of spread of this virus in Pakistan. 
 It is a great reporting tool where data can be visualized and collaborated anywhere in the world. That is why it is used here.
 Tests performed in different regions, their capabilities to deal with it and the current situation of this virus is observed through these visualizations.
-Follwing is the link fo the blog for this research:
-https://medium.com/@kmaryam0321/corona-virus-in-pakistan-visualization-771a7f88a0a6
+
